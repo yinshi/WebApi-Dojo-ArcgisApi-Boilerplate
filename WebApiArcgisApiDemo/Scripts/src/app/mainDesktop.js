@@ -15,4 +15,4 @@ function (Map, TOC, Parser, JsonRest, READY) {
             var toc = new TOC(dynamicServices, map);
         });
     });
-});  //closing require brackets
+});
